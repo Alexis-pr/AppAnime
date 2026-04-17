@@ -1,0 +1,18 @@
+﻿@model AppAnime.Models.Anime
+
+<h2>Eliminar Anime</h2>
+
+<h4>¿Seguro que deseas eliminar este registro?</h4>
+
+<div>
+    <strong>@Model.Titulo</strong>
+</div>
+
+<form asp-action="Delete">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+
+</form>
