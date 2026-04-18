@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appanime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea6f11c83c6b40b996b133705be2af4c7a80c244")]
 [assembly: System.Reflection.AssemblyProductAttribute("appanime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appanime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
